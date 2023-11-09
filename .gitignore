@@ -1,0 +1,5 @@
+plugins/*
+logs/*
+config/*
+.DS_Store
+dags/__pycache__/*
